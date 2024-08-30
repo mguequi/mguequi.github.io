@@ -21,8 +21,8 @@ repository               : "mguequi/mguequi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "mgq.jpeg"
+  name             : "Maria Guerrero Quintana"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist, Statistician"
   location         : "London, UK"
